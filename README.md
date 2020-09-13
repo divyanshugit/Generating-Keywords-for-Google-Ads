@@ -11,6 +11,7 @@ While working as SEO Analyst in Scholarship Track. This idea is came into my min
 <li>recliners</li>
 <li>sofa beds</li>
 </ul>
+
 **The brief:** The client is generally a low-cost retailer, offering many promotions and discounts. We will need to focus on such keywords. We will also need to move away from luxury keywords and topics, as we are targeting price-sensitive customers. Because we are going to be tight on budget, it would be good to focus on a tightly targeted set of keywords and make sure they are all set to exact and phrase match.</p>
 <p>Based on the brief above we will first need to generate a list of words, that together with the products given above would make for good keywords. Here are some examples:</p>
 <ul>
