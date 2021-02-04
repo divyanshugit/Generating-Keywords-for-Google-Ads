@@ -2,7 +2,7 @@
 Automatically generate keywords for a search engine marketing campaign using Python.
 ## Idea:
 While working as SEO Analyst in Scholarship Track. This idea is came into my mind. Where I have to find new keywords and content to maxmise the reach of the blog posts. But I in this project, I designed the Keyword generator for a online retailer of furniture.
-## The brief of:
+## Brief:
 <p>Imagine working for a digital marketing agency, and the agency is approached by a massive online retailer of furniture. They want to test our skills at creating large campaigns for all of their website. We are tasked with creating a prototype set of keywords for search campaigns for their sofas section. The client says that they want us to generate keywords for the following products: </p>
 <ul>
 <li>sofas</li>
