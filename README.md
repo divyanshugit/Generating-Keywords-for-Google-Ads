@@ -1,5 +1,6 @@
 # Generating-Keywords-for-Google-Ads
 Automatically generate keywords for a search engine marketing campaign using Python.
+![](logo.gif)
 ## Idea:
 While working as SEO Analyst in Scholarship Track. This idea is came into my mind. Where I have to find new keywords and content to maxmise the reach of the blog posts. But I in this project, I designed the Keyword generator for a online retailer of furniture.
 ## Brief:
